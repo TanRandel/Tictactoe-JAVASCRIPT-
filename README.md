@@ -9,7 +9,7 @@ Welcome to the classic game of Tic-Tac-Toe! Challenge your friends to a battle o
 3. The game ends when one player wins or it's a draw (a.k.a. "cat's game").
 
 # live URL
-    
+    [(https://tanrandel.github.io/Tictactoe-JAVASCRIPT-/)]
 ## Features
 
 - Classic Tic-Tac-Toe gameplay.
@@ -23,7 +23,7 @@ Welcome to the classic game of Tic-Tac-Toe! Challenge your friends to a battle o
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by [[Tan.Dev](https://github.com/TanRandel)]
 
 ## License
 
